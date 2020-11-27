@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "functions/verifyDtd.h"
-#include "functions/xmlFunctions.h"
+#include "featureDTD/verifyDtd.h"
+#include "featureXML/xmlFunctions.h"
 
 int main()
 {
